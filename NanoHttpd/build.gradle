@@ -28,4 +28,5 @@ android {
 
 dependencies {
     implementation fileTree(dir: '../libs', include: ['*.jar'])
+    implementation 'javax.servlet:javax.servlet-api:4.0.1'
 }

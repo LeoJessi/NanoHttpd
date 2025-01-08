@@ -1,6 +1,9 @@
 ## NanoHttpd
 nanohttpd
 
+#### 2025.01.08
+1.  调整javax.servlet版本
+
 #### 2024.10.25
 
 1. 整理优化至[NanoHttpd](https://github.com/NanoHttpd/nanohttpd),更换最新依赖与SDK版本
